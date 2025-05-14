@@ -67,3 +67,6 @@ Achieved over **90% accuracy** on test data using Logistic Regression.
 ```text
 "BREAKING: Scientists Confirm Water on Mars"
 Prediction: Real
+
+👤 Author
+Kunal Dubey
