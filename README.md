@@ -8,15 +8,18 @@ Paste your news article and get an instant prediction using the web app powered 
 
 ## 📂 Project Structure
 
-fake-news-detection/
-├── data/ # Dataset (Fake.csv, True.csv)
-├── train_model.py # Script to train and save model
-├── predict.py # Function to make predictions
-├── app.py # Streamlit app interface
-├── model.pkl # Trained ML model
-├── vectorizer.pkl # TF-IDF vectorizer
-├── requirements.txt
-└── README.md
+Fake_News-Detection/
+- Data/
+    - True.csv
+    - Fake.csv
+- app.py
+- train.py
+- predict.py
+- model.pkl
+- vectorizer.pkl
+- requirements.txt
+- README.md
+  
 
 ## 📊 Dataset
 
